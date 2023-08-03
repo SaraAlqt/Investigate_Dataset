@@ -41,6 +41,7 @@ from the scatter plot, I can conclude that there is a positive correlation betwe
 
 
 ![2](https://github.com/SaraAlqt/Investigate_Dataset/assets/141185254/b0c72e42-ca3a-44a5-818f-e93159353f3a)
+
 From the scatter plot, there is a positive correlation between budget and popularity.
 
 
