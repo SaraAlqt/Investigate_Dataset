@@ -35,13 +35,26 @@ What are the top movies based on their average vote?
 tmdb-movies.csv
 ## Results
 ![1](https://github.com/SaraAlqt/Investigate_Dataset/assets/141185254/7966b79f-86b8-4974-ae65-7c9ed8f0f8bb)
+
 from the scatter plot I can conclude that there is positive correlation between budget and revenue
+
+
 ![2](https://github.com/SaraAlqt/Investigate_Dataset/assets/141185254/b0c72e42-ca3a-44a5-818f-e93159353f3a)
 From the scatter plot there is positive correlation between budget and popularity.
+
+
 ![3](https://github.com/SaraAlqt/Investigate_Dataset/assets/141185254/2564ff70-6e28-43cd-851e-7f20e9211733)
+
+
 From the pie chart the Drama has the highest numbee of movie by 17% the next is comdey by 13.2% and the last one is TV Movie.
+
+
 ![4](https://github.com/SaraAlqt/Investigate_Dataset/assets/141185254/829892f8-8fc0-4780-a132-405f7a1970a3)
+
+
 The top 1 movie based on vote average is The Shawshank Redemption.
+
+
 ## Limitations
 ● The budget, revenue and runtime of some movies had equal to zero led me to delete a lot of rows.
 
