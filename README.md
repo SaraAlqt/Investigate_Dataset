@@ -22,7 +22,7 @@ Throughout the project,  I went through the data analysis process, including dat
 15-production_companies-- name of the movie production company
 16-release_date-- release data of movie
 17-vote_count-- vote cast by viewers
-18-vote_average-- average of vote cast by viewers
+18-vote_average-- average of votes cast by viewers
 19-release_year-- release year of movie
 20-budget_adj-- budget in 2010 dollars, accounting for inflation
 21-revenue_adj-- revenue in 2010 dollars, accounting for inflation
@@ -34,3 +34,4 @@ What are the top movies based on their average vote?
 ## Files
 tmdb-movies.csv
 ## Results
+![1](https://github.com/SaraAlqt/Investigate_Dataset/assets/141185254/7966b79f-86b8-4974-ae65-7c9ed8f0f8bb)
